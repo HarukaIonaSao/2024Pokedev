@@ -1,0 +1,25 @@
+body{
+    background-image:url(/src/images/background.png);
+    background-size:cover;
+    color: var(--font-color);
+    font-family: 'Press Start 2P',sans-serif;
+}
+
+body::before {
+    backdrop-filter: blur(8px);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
