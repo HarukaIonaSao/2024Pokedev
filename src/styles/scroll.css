@@ -19,3 +19,34 @@
     border-radius: var(--scrollbar-thumb-border-radius); 
     border: var(--scrollbar-thumb-border); 
 }
+
+/* Scrollbar para o card ativo */
+.card-pokedev.active .descricao::-webkit-scrollbar {
+    width: var(--scrollbar-width);
+}
+
+.card-pokedev.active .descricao::-webkit-scrollbar-thumb {
+    border: var(--scrollbar-thumb-border);
+    border-radius: var(--scrollbar-thumb-border-radius);
+}
+
+.card-pokedev.active .descricao::-webkit-scrollbar-track {
+    background-color: var(--scrollbar-track-color);
+}
+
+/* Scrollbar para os diferentes tipos de Pokémon */
+.card-pokedev.tipo-eletrico .descricao::-webkit-scrollbar-thumb {
+    background-color: var(--tipo-eletrico);
+}
+
+.card-pokedev.tipo-fogo .descricao::-webkit-scrollbar-thumb {
+    background-color: var(--tipo-fogo);
+}
+
+.card-pokedev.tipo-agua .descricao::-webkit-scrollbar-thumb {
+    background-color: var(--tipo-agua);
+}
+
+.card-pokedev.tipo-fada .descricao::-webkit-scrollbar-thumb {
+    background-color: var(--tipo-fada);
+}
