@@ -1,28 +1,28 @@
 :root {
     /* Cores Gerais */
-    --background-card-info: #323b43c6;
+    --background-card-info: #334e66c6;
     --shadow-card: #1a1ace33;
     --text-color-detalhes: #1f4fb7;
-    --border-h3: #e3d6d6;
-    --hover-list-bg: #0b51e775;
+    --border-h3: #cdd8f0;
+    --hover-list-bg: #8aa7e4f4;
   
     /* Tipos de Pokémon */
-    --tipo-eletrico: #d2aa28;
-    --tipo-fogo: #f15000d2;
-    --tipo-agua: #015C98;
-    --tipo-fada: #C29791;
+    --tipo-eletrico: #e8da3f;
+    --tipo-fogo: #de5638fc;
+    --tipo-agua: #9ebeea;
+    --tipo-fada: #ca71e3;
   
     /* Cores de Listagem */
     --list-bg: #6b727a;
-    --list-text-color: #dbcccc;
+    --list-text-color: #f1e2e2;
   
     /* Outros */
     --hover-transform-scale: 1.05;
 
     /* Scrollbar */
     --scrollbar-width: 15px;
-    --scrollbar-thumb-color: #0a0a27;
-    --scrollbar-track-color: #dddbcf;
+    --scrollbar-thumb-color: #6d717a;
+    --scrollbar-track-color: #b1b0a8;
     --scrollbar-thumb-border: 3px solid #836b42;
     --scrollbar-thumb-border-radius: 20px;
     
