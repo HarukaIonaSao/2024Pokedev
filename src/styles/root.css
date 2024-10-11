@@ -21,9 +21,9 @@
 
     /* Scrollbar */
     --scrollbar-width: 15px;
-    --scrollbar-thumb-color: #5252b5;
-    --scrollbar-track-color: #d5be25;
-    --scrollbar-thumb-border: 3px solid #ebe2d2;
+    --scrollbar-thumb-color: #0a0a27;
+    --scrollbar-track-color: #dddbcf;
+    --scrollbar-thumb-border: 3px solid #836b42;
     --scrollbar-thumb-border-radius: 20px;
     
   }

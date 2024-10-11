@@ -30,6 +30,7 @@ width: 100%;
 
 .card-pokedev .nome {
   margin-bottom: 5px ;
+  font-size: 0.7em;
 }
 
 .card-pokedev .tipo{
