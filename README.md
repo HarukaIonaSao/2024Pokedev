@@ -2,6 +2,7 @@
 *Uma jornada épica para capturar os melhores devs!*
 
 Este projeto te convida a explorar o mundo dos desenvolvedores de uma forma divertida e interativa. Desenvolvida com JavaScript puro, a Pokedex apresenta cards personalizados para cada dev, com informações e habilidades únicas.
+### 🔎 **Veja a versão alternativa**: https://github.com/HarukaIonaSao/titanDev
 
 ### 🚀 **Funcionalidades**
 - 🔄 Exibição dinâmica de cards
