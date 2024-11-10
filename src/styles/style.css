@@ -1,5 +1,5 @@
 body{
-    background-image:url(/src/images/background.png);
+    background-image:url(src/images/background.png);
     background-size:cover;
     color: var(--font-color);
     font-family: 'Press Start 2P',sans-serif;
